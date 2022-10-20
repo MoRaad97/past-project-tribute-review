@@ -21,6 +21,7 @@
 h1 {
   margin-bottom: 30px;
 }
+
 .image {
   background-color: white;
 }
@@ -32,6 +33,7 @@ img {
 #img-caption {
   padding: 30px;
 }
+
 .content h2 {
   margin-top: 60px;
 }
@@ -41,9 +43,11 @@ ul {
   text-align: left;
   margin: 50px auto;
 }
+
 .year {
   font-weight: 700;
 }
+
 .quote {
   font-style: italic;
   padding: 10px 50px;
