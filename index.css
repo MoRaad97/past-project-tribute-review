@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.global {
+  background-color: #eee;
+  margin: 30px 20px;
+  padding: 30px 20px;
+  border-radius: 5px;
+  max-width: 100%;
+  text-align: center;
+}
+
+.header {
+  padding: 20px;
+  transform: translateY(-100px);
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+.image {
+  background-color: white;
+}
+
+img {
+  padding-right: 50pc;
+}
+
+#img-caption {
+  padding: 30px;
+}
+.content h2 {
+  margin-top: 60px;
+}
+
+ul {
+  max-width: 50%;
+  text-align: left;
+  margin: 50px auto;
+}
+.year {
+  font-weight: 700;
+}
+.quote {
+  font-style: italic;
+  padding: 10px 50px;
+  font-size: 20px;
+  max-width: 50%;
+  margin: 50px auto;
+}
+
+.quote > p {
+  font-size: 20px;
+}
+
+#footer p {
+  font-size: 28px;
+  font-weight: 700;
+  color: rgb(75, 75, 75);
+}
